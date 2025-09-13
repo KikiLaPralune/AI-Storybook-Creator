@@ -1,0 +1,5 @@
+{
+  "name": "AI Storybook Creator",
+  "description": "Create personalized, illustrated storybooks for children. Just provide a topic and the desired number of pages, and our AI will write and illustrate a unique story for you to download as a PDF.",
+  "requestFramePermissions": []
+}
